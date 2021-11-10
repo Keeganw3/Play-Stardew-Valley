@@ -18,7 +18,7 @@ body {
 }
 
  #hero-outer {
-    height: 280px;
+    height: 300px;
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -27,7 +27,7 @@ body {
 #hero-image {
     height: 300px;
     width: 100%;
-    background: url('../images/hero-image2.jpg') no-repeat center center;
+    background: url('../images/hero-image.jpg') no-repeat center center;
 }
 
 /* navigation links */
@@ -75,7 +75,7 @@ body {
 }
 
 #image-about {
-    background: url('../images/hero-image.jpg');
+    background: url('../images/about-image.png');
     height: 300px;
     width: 330px;
     float: right;
@@ -93,9 +93,22 @@ body {
 
 /* The Community Section */
 
-#community-image {
+.community-image-left {
     height: 150px;
     width: 50%;
+    float: left;
+    margin-inline-start: 50px;
+}
+
+.community-image-right {
+    height: 150px;
+    width: 50%;
+    float: right;
+    margin-inline-start: 50px;
+}
+
+.community-text {
+    margin: 0 auto;
 }
 
 /* footer */
