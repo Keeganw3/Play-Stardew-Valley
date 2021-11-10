@@ -5,11 +5,11 @@
 
 # Features
 ## The landing page
-* Contains an image from the game. 
+* Contains an image from the game containing the title and main area. 
 * This section introduces the user to Stardew Valley through...
 ## About section
 
-## Activities section
+## Why this is cool? section
 
 ## Community section
 
@@ -31,6 +31,7 @@
 
 # Credits
 
+* Code for footer and nav bar taken from Love Running Project. (Include link to source code here and in html code if I don't edit it a lot.)
 ## Content
 
 ## Media
