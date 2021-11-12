@@ -85,6 +85,5 @@ This website is meant to introduce the viewer to the world of Stardew Valley, an
 * festival-image came from https://www.google.com/url?sa=i&url=https%3A%2F%2Fstardewcommunitywiki.com%2FFeast_of_the_Winter_Star&psig=AOvVaw2c8-2CtBAgqobMxtWEJvrM&ust=1636599584785000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCRv9zmjPQCFQAAAAAdAAAAABAe
 * Farming-image2 came from https://i.pinimg.com/236x/56/da/71/56da713aceed41b767213cf5512af9b1.jpg
 * Farming-image3 came from https://www.google.com/url?sa=i&url=https%3A%2F%2Fwin.gg%2Fnews%2Fthese-are-the-best-farm-layouts-in-stardew-valley%2F&psig=AOvVaw0in5sQF87hqVhAeSSIyco3&ust=1636599753189000&source=images&cd=vfe&ved=2ahUKEwjSktmo54z0AhX1wOYKHXv_ARwQjRx6BAgAEAk
-* Farming-image4 came from https://i.pinimg.com/originals/6a/b3/de/6ab3de38c123deff7719cbecfe6227fc.png
-* Farming-image5 came from https://i.pinimg.com/originals/4b/d1/52/4bd152c6b0308ecb410710f83fc7eb76.jpg
-* Farming-image6 came from https://www.pngkey.com/png/detail/706-7069766_tully-farm-stardew-valley-summary-generator.png
+* Farming-image4 came from https://i.redd.it/jrz8gc31drmx.png
+* Farming-image5 came from https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FStardewValley%2Fcomments%2F70pa2y%2Fbetter_version_of_my_farm_fall_year_5%2F&psig=AOvVaw011hJLk-me2Qgt5ED5fZpj&ust=1636771339533000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjlpcvmkfQCFQAAAAAdAAAAABAD
