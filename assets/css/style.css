@@ -33,6 +33,7 @@ body {
 p {
     font-size: 18px;
     line-height: 20px;
+    text-align: center;
 }
 
 /* navigation links */
@@ -81,7 +82,6 @@ p {
 }
 
 #image-about {
-    /* background: url('../images/about-image.png') no-repeat center center; */
     height: 300px;
     width: 100%;
     object-fit: cover;
@@ -90,21 +90,23 @@ p {
 /* Activities Section */
 
 #activities-image {
-    float: right;
-    height: 100px;
-    width: 60%;
-    column-gap: 0;
-    background-size: cover;
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
 }
 
 /* The Community Section */
 
-.community-image-left {
-    clear: both;
-    width: 80%;
-    float: left;
-    margin-left: 125px;
+.community-image {
+    /* clear: both;
+    width: 50%;
     background-size: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; */
+    height: 250px;
+    width: 100%;
+    object-fit: cover;
 }
 
 .community-text {
