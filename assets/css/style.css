@@ -134,6 +134,62 @@ footer {
     color: #fffff0;
 }
 
+/* Sign-up section */
+
+.form-section {
+    clear: both;
+    background: url("../images/horse-image.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    margin-top: 100px;
+}
+
+.signup-form {
+    margin: 150px 10% 0 0;
+    color: #fffff0;
+    background-color: rgba(60, 60, 60, 0.6);
+    max-width: 400px;
+    position: absolute;
+    left: 10%;
+    padding: 30px;
+}
+
+.signup-form > h2 {
+    color: #fffff0;
+    margin-bottom: 20px;
+}
+
+.text-input {
+    background: transparent;
+    color: #fffff0;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fffff0;
+    border-radius: 2px;
+}
+
+.text-input:hover {
+    border-color: #eff16b;
+}
+
+.join-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: #fffff0;
+    color: #573914;
+    display: block;
+}
+
+.join-button:hover {
+    background-color:  #eff16b;
+    color: #573914;
+}
+
 /* Media Queries */
 /* .left-about {
     width: 166px;

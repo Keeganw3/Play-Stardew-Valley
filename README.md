@@ -30,7 +30,7 @@ This website is meant to introduce the viewer to the world of Stardew Valley, an
 (Provide image of community section)
 
 ## Sign-Up section
-* This will allow the user to receive tips about starting the game, a link to buy the game or ways on how to become an active member of the communities on different social media. 
+* This will allow the user to receive tips about starting the game or a link to buy the game. 
 * The user can specify which they would like to do by ticking the appropriate box and submitting a full name and email address.
 (Provide image of sign-up)
 
@@ -72,6 +72,7 @@ This website is meant to introduce the viewer to the world of Stardew Valley, an
 * My mentor Brian Macharia who supported me and provided me with both feedback and solutions to problems I faced while creating the website.
 * My lecturer Simen Daehlin who provided me feedback on my initial wireframe designs.
 * The people from slack room who answered my questions on when I needed it.
+* Code institute for the classes, sources and tutors that they provided me.
 * Media Query sizes were taken from Bootstrap: https://getbootstrap.com/docs/4.1/layout/overview/
 
 ## Content
