@@ -71,22 +71,31 @@ For media queries 768px and 1000px and above, the text and images in the about a
 (Add to this nearer to projects end)
 
 # Deployment
+For all of the below steps you must head to Github.
 * Log into Github
-* (Figure this out)
+* Load up the required repository.
+* Go to Settings and scroll down to Github pages (this will open up a new webpage).
+* Click on the dropdown menu called "None" and then select "Master Branch".
+* A second dropdown menu should appear that says "/root" and a button that says Save.
+* Click Save and now the link for the website has been made.
 
 ## Forking
 * Log into Github
+* Load up the required repository.
+* In the top right of the screen below the profile icon there is a fork button, click this.
+* The repository should now be copied onto your Github account.
 
 ## Cloning
-* Log into Github and choose a repository
-* Click on the green code button
-* You will be given three ways to clone the code. If using https, click “Clone with https” and copy the link.
-* (Figure this out)
+* Log into Github and choose a repository.
+* Click on the green code button.
+* You will be given three ways to clone the code. If you're using https, click “Clone with https” and copy the link.
+* Open the terminal and type in the command "git clone" followed by a space and the copied url.
+* The repository will now be cloned onto the computer.
 
 # Acknowledgements
 
 ## Credits
-* Code for footer and nav bar taken from Love Running Project. (Include source code here and in html code if I don't edit it a lot.)
+* Some code for footer and signup section taken from Love Running Project. These sections were both modified to better suit this project.
 * My mentor Brian Macharia who supported me and provided me with both feedback and solutions to problems I faced while creating the website.
 * My lecturer Simen Daehlin who provided me feedback on my initial wireframe designs.
 * The people from slack room who answered my questions on when I needed it.
