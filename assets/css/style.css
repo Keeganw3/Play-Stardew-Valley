@@ -210,6 +210,13 @@ footer {
     width: 710px;
 }
 
+.community-image {
+    height: 250px;
+    width: 49%;
+    object-fit: cover;
+    column-count: 2;
+}
+
 /* .community-image-left {
     clear: both;
     width: 80%;
