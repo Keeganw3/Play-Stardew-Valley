@@ -196,9 +196,9 @@ p {
 }
 
 #menu {
-    font-size: 120%;
-    letter-spacing: 5px;
-    margin: 0 40px 0 40px;
+    font-size: 115%;
+    letter-spacing: 4px;
+    margin: 0 10px 0 10px;
 }
 
 .headings {
@@ -207,6 +207,20 @@ p {
     line-height: 10px;
     clear: both;
     top: 30px;
+}
+
+#why-its-cool-header {
+    font-size: 220%;
+    line-height: 10px;
+    clear: both;
+    padding-top: 20px;
+}
+
+#community-header {
+    font-size: 220%;
+    line-height: 10px;
+    clear: both;
+    padding-top: 20px;   
 }
 
     .about-text {
@@ -241,7 +255,6 @@ p {
     width: 40%;
     object-fit: cover;
     column-count: 2;
-    
 }
 }
 
@@ -272,7 +285,20 @@ p {
         font-size: 220%;
         line-height: 10px;
         clear: both;
-        top: 30px;
+}
+
+#why-its-cool-header {
+        font-size: 220%;
+        line-height: 10px;
+        clear: both;
+        padding-top: 20px;
+}
+
+#community-header {
+        font-size: 220%;
+        line-height: 10px;
+        clear: both;
+        padding-top: 20px;   
 }
 
     .about-text {
