@@ -184,20 +184,33 @@ footer {
         width: 100%;
 }
 
-/* p {
-    font-size: 22px;
-    line-height: 26px;
+p {
+    font-size: 20px;
+    line-height: 22px;
+}
+
+#logo {
+    font-size: 300%;
+    height: 30px;
+    letter-spacing: 5px;
+}
+
+#menu {
+    font-size: 120%;
+    letter-spacing: 5px;
+    margin: 0 40px 0 40px;
 }
 
 .headings {
     text-align: center;
-    font-size: 200%;
+    font-size: 220%;
     line-height: 10px;
     clear: both;
     top: 30px;
-} */
+}
+
     .about-text {
-    width: 250px;
+    width: 30%;
     float: left;
     top: 50px;
     margin-left:25px;
@@ -225,7 +238,7 @@ footer {
 
 .community-image {
     height: 250px;
-    width: 49%;
+    width: 40%;
     object-fit: cover;
     column-count: 2;
     
@@ -240,19 +253,19 @@ footer {
     p {
         font-size: 22px;
         line-height: 26px;
-    }
+}
 
     #logo {
         font-size: 320%;
         height: 40px;
         letter-spacing: 6px;
-    }
+}
     
     #menu {
         font-size: 140%;
         letter-spacing: 6px;
         margin: 0 40px 0 40px;
-    }
+}
 
     .headings {
         text-align: center;
@@ -260,7 +273,7 @@ footer {
         line-height: 10px;
         clear: both;
         top: 30px;
-    }
+}
 
     .about-text {
     width: 400px;
@@ -275,7 +288,6 @@ footer {
     float: right;
     margin: 0 50px 0 0;
 } 
-}
 
 .activities-image {
     float: right;
@@ -290,12 +302,23 @@ footer {
     width: 710px;
 }
 
-.left-community-image {
+#top-left-community-image {
     width: 450px;
-    margin-left: 50px;
+    margin-left: 40px;
 }
 
-.right-community-image {
+#bottom-left-community-image {
+    width: 450px;
+    margin-left: 40px;
+}
+
+#top-right-community-image {
     width: 450px;
     margin-right: 20px;
+}
+
+#bottom-right-community-image {
+    width: 450px;
+    margin-right: 20px;
+}
 }
