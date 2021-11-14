@@ -53,18 +53,19 @@ This website is meant to introduce the viewer to the world of Stardew Valley, an
     <a href="http://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
             src="http://jigsaw.w3.org/css-validator/images/vcss"
-            alt="Valid CSS!" />
+            alt="Valid CSS!"/>
     </a>
 </p>
-
-## Color Contrast Testing
 
 ## Accessibilty Testing
 This is a screenshot taken from my first time doing an accessibilty test on Developer Tools Lighthouse.
 ![Screenshot](/assets/screenshots/accessibility-screenshot.png)
 
 ## Manual Testing
-* I tested the media queries by manually adjusting the screen size from roughly 500-1000px to make sure the correct changes were taking place above or below each specific screen size.
+I tested the media queries by manually adjusting the screen size from roughly 500-1000px to make sure the correct changes were taking place above or below each specific screen size.
+
+At 500px and below all text and images are displayed vertically because it fits this screen size well.
+For media queries 768px and 1000px and above, the text and images in the about and why its cool sections are displayed horizontally. The community section images are displayed side by side in pairs.
 
 ## Unfixed Bugs
 (Add to this nearer to projects end)
