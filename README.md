@@ -96,11 +96,15 @@ For all of the below steps you must head to Github.
 
 ## Credits
 * Some code for footer and signup section taken from Love Running Project. These sections were both modified to better suit this project.
+### Signup Code
+![Screenshot](/assets/screenshots/signup-code-screenshot.png)
+### Footer Code
+![Screenshot](/assets/screenshots/footer-code-screenshot.png)
 * My mentor Brian Macharia who supported me and provided me with both feedback and solutions to problems I faced while creating the website.
 * My lecturer Simen Daehlin who provided me feedback on my initial wireframe designs.
 * The people from slack room who answered my questions on when I needed it.
 * Code institute for the classes, sources and tutors that they provided me.
-* Media Query sizes were taken from Bootstrap: https://getbootstrap.com/docs/4.1/layout/overview/
+* Bootstrap for the media query sizes that I used: https://getbootstrap.com/docs/4.1/layout/overview/
 
 ## Content
 * Font awesome provided the icons in the footer.
