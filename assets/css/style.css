@@ -73,7 +73,7 @@ p {
     font-size: 200%;
     line-height: 10px;
     clear: both;
-    top: 10px;
+    top: 30px;
 }
 
 .about-text {
@@ -193,21 +193,20 @@ footer {
 }
 
     .about-text {
-    width: 200px;
+    width: 250px;
     float: left;
-    top: 10;
-    margin-left: 50px;
+    top: 10px;
+    margin-left:25px;
 }
 
 #image-about {
-    background: url('../images/about-image.png');
     height: 300px;
     width: 60%;
     float: right;
 } 
 }
 
-#activities-image {
+.activities-image {
     float: right;
     height: 100px;
     width: 60%;
