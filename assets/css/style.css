@@ -184,6 +184,18 @@ footer {
         width: 100%;
 }
 
+/* p {
+    font-size: 22px;
+    line-height: 26px;
+}
+
+.headings {
+    text-align: center;
+    font-size: 200%;
+    line-height: 10px;
+    clear: both;
+    top: 30px;
+} */
     .about-text {
     width: 250px;
     float: left;
@@ -225,26 +237,53 @@ footer {
         width: 100%;
 }
 
+    p {
+        font-size: 22px;
+        line-height: 26px;
+    }
+
+    #logo {
+        font-size: 320%;
+        height: 40px;
+        letter-spacing: 6px;
+    }
+    
+    #menu {
+        font-size: 140%;
+        letter-spacing: 6px;
+        margin: 0 40px 0 40px;
+    }
+
+    .headings {
+        text-align: center;
+        font-size: 220%;
+        line-height: 10px;
+        clear: both;
+        top: 30px;
+    }
+
     .about-text {
-    width: 250px;
+    width: 400px;
     float: left;
     top: 50px;
-    margin-left:50px;
+    margin: 75px 0 0 25px;
 }
 
 #image-about {
     height: 300px;
-    width: 60%;
+    width: 50%;
     float: right;
+    margin: 0 50px 0 0;
 } 
 }
 
 .activities-image {
     float: right;
-    height: 125px;
-    width: 60%;
+    height: 150px;
+    width: 50%;
     column-gap: 0;
-    background-size: cover;
+    margin: 0 50px 0 0;
+    object-fit: cover;
 }
 
 .community-text {
