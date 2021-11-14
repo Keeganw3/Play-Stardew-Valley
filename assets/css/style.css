@@ -77,8 +77,9 @@ p {
 }
 
 .about-text {
-    width: 166px;
-    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
 }
 
 #image-about {
@@ -89,7 +90,7 @@ p {
 
 /* Activities Section */
 
-#activities-image {
+.activities-image {
     height: 200px;
     width: 100%;
     object-fit: cover;
@@ -104,7 +105,9 @@ p {
 }
 
 .community-text {
-    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
 }
 
 /* footer */
@@ -130,21 +133,19 @@ footer {
 
 /* Sign-up section */
 
-.form-section {
+/* .form-section {
     clear: both;
     background: url("../images/horse-image.jpg");
     background-size: cover;
     background-position: center;
     height: 300px;
-    margin-top: 100px;
-}
+} */
 
 .signup-form {
-    margin: 150px 10% 0 0;
+    margin: 0 10% 0 0;
     color: #fffff0;
     background-color: rgba(60, 60, 60, 0.6);
     max-width: 400px;
-    position: absolute;
     left: 10%;
     padding: 30px;
 }
@@ -187,6 +188,10 @@ footer {
 /* Media Queries */
 
 @media screen and (min-width: 768px) {
+    body {
+        width: 100%;
+}
+
     .about-text {
     width: 200px;
     float: left;
