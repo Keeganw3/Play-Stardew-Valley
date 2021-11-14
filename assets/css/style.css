@@ -269,6 +269,10 @@ p {
     width: 45%;
     margin-right: 20px;
 }
+
+.signup-form {
+    margin-left: 40px;
+}
 }
 
 @media screen and (min-width: 1000px) {
@@ -359,5 +363,9 @@ p {
 #bottom-right-community-image {
     width: 450px;
     margin-right: 20px;
+}
+
+.signup-form {
+    margin-left: 40px;
 }
 }
