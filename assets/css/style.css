@@ -250,11 +250,24 @@ p {
     width: 710px;
 }
 
-.community-image {
-    height: 250px;
-    width: 40%;
-    object-fit: cover;
-    column-count: 2;
+#top-left-community-image {
+    width: 45%;
+    margin-left: 40px;
+}
+
+#bottom-left-community-image {
+    width: 45%;
+    margin-left: 40px;
+}
+
+#top-right-community-image {
+    width: 45%;
+    margin-right: 20px;
+}
+
+#bottom-right-community-image {
+    width: 45%;
+    margin-right: 20px;
 }
 }
 
