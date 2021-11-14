@@ -43,11 +43,17 @@ This website is meant to introduce the viewer to the world of Stardew Valley, an
 
 # Testing
 ## Validator Testing
-* HTML
-* Mention errors (or lack thereof) found through W3C validator
-* CSS
-* Mention errors (or lack thereof) found through jigsaw validator
-* Mention errors (or lack thereof) found through W3C CSS validator
+### HTML
+* No errors were found through W3C validator. There is one warning pertaining to line 37 because it doesn't have a header but this isn't needed because this section contains the hero image.
+### CSS
+* No errors were found through the W3C CSS validator and I was given the code for this icon to prove this.
+<p>
+    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
 
 ## Unfixed Bugs
 (Add to this nearer to projects end)
