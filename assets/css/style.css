@@ -133,14 +133,6 @@ footer {
 
 /* Sign-up section */
 
-/* .form-section {
-    clear: both;
-    background: url("../images/horse-image.jpg");
-    background-size: cover;
-    background-position: center;
-    height: 300px;
-} */
-
 .signup-form {
     margin: 0 10% 0 0;
     color: #fffff0;
@@ -212,6 +204,10 @@ footer {
     width: 60%;
     column-gap: 0;
     background-size: cover;
+}
+
+.community-text {
+    width: 710px;
 }
 
 /* .community-image-left {
