@@ -68,7 +68,7 @@ At 500px and below all text and images are displayed vertically because it fits 
 For media queries 768px and 1000px and above, the text and images in the about and why its cool sections are displayed horizontally. The community section images are displayed side by side in pairs.
 
 ## Unfixed Bugs
-(Add to this nearer to projects end)
+At 500px and below the nav bar doesn't properly display. This wasn't fixed due to time. At all other media queries the nav bar is displayed correctly.
 
 # Deployment
 For all of the below steps you must head to Github.
@@ -100,6 +100,7 @@ For all of the below steps you must head to Github.
 ![Screenshot](/assets/screenshots/signup-code-screenshot.png)
 ### Footer Code
 ![Screenshot](/assets/screenshots/footer-code-screenshot.png)
+
 * My mentor Brian Macharia who supported me and provided me with both feedback and solutions to problems I faced while creating the website.
 * My lecturer Simen Daehlin who provided me feedback on my initial wireframe designs.
 * The people from slack room who answered my questions on when I needed it.
