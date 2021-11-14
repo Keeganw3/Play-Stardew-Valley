@@ -187,7 +187,7 @@ footer {
     .about-text {
     width: 250px;
     float: left;
-    top: 10px;
+    top: 50px;
     margin-left:25px;
 }
 
@@ -200,7 +200,7 @@ footer {
 
 .activities-image {
     float: right;
-    height: 100px;
+    height: 125px;
     width: 60%;
     column-gap: 0;
     background-size: cover;
