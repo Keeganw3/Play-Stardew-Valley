@@ -7,37 +7,39 @@ This website is meant to introduce the viewer to the world of Stardew Valley, an
 ## Navigation bar
 * Featured at the top of the webpage, it provides the user with links to each section of the website.
 * This allows users to quickly find the section they are looking for on all devices.
-(Provide image of the header and nav bar)
+![Screenshot](/assets/screenshots/logo-screenshot.png)
 
 ## The landing page
 * Contains an image from the game containing the title and farm that they will help re-build.
 * This section introduces the user to Stardew Valley through the prominently displayed hero-image that presents both the name of the game and the parts of the game.
-(Provide hero image)
+![Screenshot](/assets/screenshots/hero-image-screenshot.png)
 
 ## About section
 * This section describes the basics of the game, its plot and why you the player character have decided to come to Stardew Valley.
 * The user will see the ideas and themes of the game. This should make them interested in seeing more of the website and what else the game has to offer.
-(Provide image of about section)
+![Screenshot](/assets/screenshots/about-screenshot.png)
 
 ## Why it’s Cool? Section
 * This section shows the user more in-depth activities that are available to them while playing the game.
 * This section may change as more activities are brought into the game as it is still being updated.
-(Provide image of why it’s cool section)
+![Screenshot](/assets/screenshots/why-it's-cool-screenshot.png)
 
 ## The Community section
 * This section tells the user about the community surrounding Stardew Valley and the creativity they’ve shown and inspire in others.
 * This will change as more types of farms are displayed on social media.
-(Provide image of community section)
+![Screenshot](/assets/screenshots/community1-screenshot.png)
+![Screenshot](/assets/screenshots/community2-screenshot.png)
 
 ## Sign-Up section
 * This will allow the user to receive tips about starting the game or a link to buy the game. 
 * The user can specify which they would like to do by ticking the appropriate box and submitting a full name and email address.
-(Provide image of sign-up)
+![Screenshot](/assets/screenshots/signup-screenshot.png)
 
 ## The Footer
 * This footer provides links to all the relevant social media sites for Stardew Valley. The links open into new tabs to allow for easy navigation.
 * The footer is valuable to the user as it allows them to keep up to date on updates for the game and to join the community that helps make it special via social media.
-(Provide image of footer)
+
+![Screenshot](/assets/screenshots/footer-screenshot.png)
 
 # Features left to Implement
 
@@ -54,6 +56,15 @@ This website is meant to introduce the viewer to the world of Stardew Valley, an
             alt="Valid CSS!" />
     </a>
 </p>
+
+## Color Contrast Testing
+
+## Accessibilty Testing
+This is a screenshot taken from my first time doing an accessibilty test on Developer Tools Lighthouse.
+![Screenshot](/assets/screenshots/accessibility-screenshot.png)
+
+## Manual Testing
+* I tested the media queries by manually adjusting the screen size from roughly 500-1000px to make sure the correct changes were taking place above or below each specific screen size.
 
 ## Unfixed Bugs
 (Add to this nearer to projects end)
