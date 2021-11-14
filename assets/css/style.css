@@ -290,9 +290,12 @@ footer {
     width: 710px;
 }
 
-.community-image {
-    height: 250px;
-    width: 49%;
-    object-fit: cover;
-    column-count: 2;
+.left-community-image {
+    width: 450px;
+    margin-left: 50px;
+}
+
+.right-community-image {
+    width: 450px;
+    margin-right: 20px;
 }
