@@ -195,6 +195,47 @@ footer {
     height: 300px;
     width: 60%;
     float: right;
+    margin-right: 10px;
+} 
+
+.activities-image {
+    float: right;
+    height: 125px;
+    width: 60%;
+    column-gap: 0;
+    background-size: cover;
+    margin-right: 10px;
+}
+
+.community-text {
+    width: 710px;
+}
+
+.community-image {
+    height: 250px;
+    width: 49%;
+    object-fit: cover;
+    column-count: 2;
+    
+}
+}
+
+@media screen and (min-width: 1000px) {
+    body {
+        width: 100%;
+}
+
+    .about-text {
+    width: 250px;
+    float: left;
+    top: 50px;
+    margin-left:50px;
+}
+
+#image-about {
+    height: 300px;
+    width: 60%;
+    float: right;
 } 
 }
 
@@ -216,17 +257,3 @@ footer {
     object-fit: cover;
     column-count: 2;
 }
-
-/* .community-image-left {
-    clear: both;
-    width: 80%;
-    float: left;
-    margin-left: 125px;
-}
-
-.community-image-right {
-    height: 150px;
-    width: 80%;
-    float: right;
-    margin-inline-start: 50px;
-} */
